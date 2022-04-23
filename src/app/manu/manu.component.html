@@ -1,0 +1,21 @@
+<app-jesus></app-jesus>
+
+<div class="container">
+    <h1>Carrito</h1>
+</div>
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    fechaData();
+});
+const fechaData = async () =>{
+    try {
+       
+     const res = await fetch('personaje')
+     const data = await res.json()
+     console.log(data)
+
+    } catch (error) {
+        console.log(error)
+    }
+}
+</script>

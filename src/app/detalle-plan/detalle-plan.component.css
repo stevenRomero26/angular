@@ -1,0 +1,139 @@
+.imagen{
+    background: url( "https://7travel.co/assets/img/default/tours/portada.jpg" ) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    
+}
+
+.display-4 p {
+    border: 20px solid #000000;
+}
+.display-4{
+    color: #000000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    font-family: sans-serif;
+}
+.contenedor{
+    width: 100vw;
+    background-color: #ffff;
+    height: 30%;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.color{
+
+    background-color: #ffff;
+ 
+}
+.centrar{
+  position:   relative;
+  margin-left: 220px;
+   
+}
+.centrar2{
+    position:   relative;
+    margin-left: 220px;
+}
+.containerr{
+    width: 100vw;
+    height: 60vh;
+    background-color: #7779ee;
+}
+.contenedor-co{
+    width: 70%;
+
+}
+.contenedor-co p{
+    text-align: justify;
+    color: #000000;
+}
+.px-0 .p{
+  /* */
+width: 220px;
+   position: relative;
+   top: 70px;
+    color: #000000;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    
+    color: #f8f2f2;
+}
+.pre{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    width: 120px;
+    height: 20px;
+    left: 180%;
+    color: #d34c04;
+}
+.ancho{
+ width: 90%;
+}
+
+.boton1{
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    justify-content: flex-end;
+    
+   
+    background: linear-gradient(70deg,  rgb(9, 107, 235), rgb(9, 107, 235));
+    position: relative;
+    width: 145px;
+    height: 50px;
+    left: 180%;
+  
+}
+.col-md-6 p{
+    color: #ef31a0;
+}
+button:hover{
+    background-color: #7779ee !important;
+    
+}
+button:hover > a {
+    color: #000000 !important;
+}
+.boton1 a{
+    text-align: center;
+    text-decoration: none;
+    color: blanchedalmond;
+    padding-right:  10px;
+}
+.px{
+    width: 24px;
+    height: 24px;
+}
+body{
+    background-color: #000000;
+}
+.impor{
+    position: relative;
+    width: 120px;
+    height: 40px;
+    left: 180%;
+
+}
+.grid{
+    
+position: relative;
+left: 60%;
+bottom: 190px;
+width: 50vw
+}
+.colorr{
+   background-color: #ffffffff;
+    
+    
+}
+
