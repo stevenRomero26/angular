@@ -17,6 +17,8 @@ import { LoginComponent } from './login/login.component';
 import { CargarScriptService } from './cargar-script.service';
 import { DetallePlanComponent } from './detalle-plan/detalle-plan.component';
 import { CarritoCompraComponent } from './carrito-compra/carrito-compra.component';
+import { ProductoComponent } from './producto/producto.component';
+import { HeaderComponent } from './header/header.component';
 
 
 @NgModule({
@@ -33,7 +35,9 @@ import { CarritoCompraComponent } from './carrito-compra/carrito-compra.componen
     PlanesOfertasComponent,
     LoginComponent,
     DetallePlanComponent,
-    CarritoCompraComponent
+    CarritoCompraComponent,
+    ProductoComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,
