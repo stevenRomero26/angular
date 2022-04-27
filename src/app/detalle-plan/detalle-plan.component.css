@@ -5,7 +5,14 @@
     height: 60vh;
     
 }
-
+i{
+    background-color: #000000;
+    color: #000000;
+}
+.img2{
+    color: rgb(66, 8, 226);
+    background-color: rgb(112, 159, 245);
+}
 .display-4 p {
     border: 20px solid #000000;
 }

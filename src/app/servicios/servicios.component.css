@@ -1,1 +1,23 @@
 
+.kata{
+    background-image: url("https://i.ibb.co/1mVKcj4/Imagen1.jpg");
+}
+.comotu{
+    border-radius: 200px;
+    width: 150px;
+    height: 150px;
+
+}
+.kaya{
+    width: 470px;
+    height: 470px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.letra{
+
+text-align: center !important;
+font-size: 30px;
+
+}
